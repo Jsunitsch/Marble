@@ -22,4 +22,10 @@ public class PlayerControl : MonoBehaviour {
 
 		rb.AddForce (move * speed);
 	}
+
+	public void FreezeControl(){
+
+		rb.constraints = RigidbodyConstraints.FreezeAll;
+	}
+
 }

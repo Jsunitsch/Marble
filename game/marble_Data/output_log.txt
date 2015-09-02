@@ -1,0 +1,74 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\jsunitsch\Documents\Marble\game\marble_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21c0 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.408273 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.284479 ms (FindLiveObjects: 0.046227 ms CreateObjectMapping: 0.025287 ms MarkObjects: 0.203877 ms  DeleteObjects: 0.008297 ms)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568169 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 191.
+Total: 0.412495 ms (FindLiveObjects: 0.021335 ms CreateObjectMapping: 0.012643 ms MarkObjects: 0.247339 ms  DeleteObjects: 0.129596 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.500210 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.231534 ms (FindLiveObjects: 0.020545 ms CreateObjectMapping: 0.009877 ms MarkObjects: 0.192023 ms  DeleteObjects: 0.008297 ms)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.450821 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 270.
+Total: 0.247339 ms (FindLiveObjects: 0.036350 ms CreateObjectMapping: 0.009482 ms MarkObjects: 0.188072 ms  DeleteObjects: 0.013038 ms)
+
+Game over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589504 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 191.
+Total: 0.348487 ms (FindLiveObjects: 0.020150 ms CreateObjectMapping: 0.012248 ms MarkObjects: 0.192418 ms  DeleteObjects: 0.122879 ms)
+
+End game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
