@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlayerControl : MonoBehaviour {
 
+	public GameObject my_cam;
 	public float speed;
 	private Rigidbody rb;
 	// Use this for initialization
@@ -14,13 +15,10 @@ public class PlayerControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
-		float moveLR = Input.GetAxis ("Horizontal");
-		float moveUD = Input.GetAxis ("Vertical");
 
-		Vector3 move = new Vector3 (moveLR, 0.0f, moveUD);
-
-		rb.AddForce (move * speed);
+		Vector3 controlDirection = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
+		Vector3 actualDirection = my_cam.transform.TransformDirection(controlDirection);
+		rb.AddForce ((actualDirection * speed) );
 	}
 
 	public void FreezeControl(){
