@@ -4,11 +4,9 @@ using System.Collections;
 public class GameOver : MonoBehaviour {
 
 	PlayerControl pl;
-	UserInterface ui;
 	// Use this for initialization
 	void Start () {
 		pl = this.GetComponent<PlayerControl>();
-		ui = GameObject.Find ("UI").GetComponent<UserInterface> ();
 	}
 	
 	// Update is called once per frame
@@ -21,9 +19,7 @@ public class GameOver : MonoBehaviour {
 		if (col.gameObject.name == "Ground") {
 
 			Debug.Log("Game over");
-
-			pl.FreezeControl();
-			ui.GameOver();
+			Application.LoadLevel("fell from to high");
 		}
 	}
 	

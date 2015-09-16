@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 5a7c6223f6e3b51499e784bcb40ca084
+timeCreated: 1441625273
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: astroturf1Main
+    100002: astroturf1MeshGroup
+    100004: defaultLight
+    100006: //RootNode
+    100008: pPlane1
+    100010: strokeAstroturf1
+    100012: strokeAstroturf10
+    100014: strokeAstroturf11
+    100016: strokeAstroturf12
+    100018: strokeAstroturf2
+    100020: strokeAstroturf3
+    100022: strokeAstroturf4
+    100024: strokeAstroturf5
+    100026: strokeAstroturf6
+    100028: strokeAstroturf7
+    100030: strokeAstroturf8
+    100032: strokeAstroturf9
+    100034: astroturf6Main
+    100036: astroturf6Main_MeshPart0
+    100038: astroturf6Main_MeshPart1
+    100040: astroturf6Main_MeshPart2
+    100042: astroturf6Main_MeshPart3
+    100044: astroturf6Main_MeshPart4
+    100046: astroturf6Main_MeshPart5
+    100048: astroturf6Main_MeshPart6
+    100050: astroturf6MeshGroup
+    100052: grassClump1Main
+    100054: grassClump1Main_MeshPart0
+    100056: grassClump1Main_MeshPart1
+    100058: grassClump1Main_MeshPart2
+    100060: grassClump1MeshGroup
+    400000: astroturf1Main
+    400002: astroturf1MeshGroup
+    400004: defaultLight
+    400006: //RootNode
+    400008: pPlane1
+    400010: strokeAstroturf1
+    400012: strokeAstroturf10
+    400014: strokeAstroturf11
+    400016: strokeAstroturf12
+    400018: strokeAstroturf2
+    400020: strokeAstroturf3
+    400022: strokeAstroturf4
+    400024: strokeAstroturf5
+    400026: strokeAstroturf6
+    400028: strokeAstroturf7
+    400030: strokeAstroturf8
+    400032: strokeAstroturf9
+    400034: astroturf6Main
+    400036: astroturf6Main_MeshPart0
+    400038: astroturf6Main_MeshPart1
+    400040: astroturf6Main_MeshPart2
+    400042: astroturf6Main_MeshPart3
+    400044: astroturf6Main_MeshPart4
+    400046: astroturf6Main_MeshPart5
+    400048: astroturf6Main_MeshPart6
+    400050: astroturf6MeshGroup
+    400052: grassClump1Main
+    400054: grassClump1Main_MeshPart0
+    400056: grassClump1Main_MeshPart1
+    400058: grassClump1Main_MeshPart2
+    400060: grassClump1MeshGroup
+    2300000: astroturf1Main
+    2300002: pPlane1
+    2300004: astroturf6Main_MeshPart0
+    2300006: astroturf6Main_MeshPart1
+    2300008: astroturf6Main_MeshPart2
+    2300010: astroturf6Main_MeshPart3
+    2300012: astroturf6Main_MeshPart4
+    2300014: astroturf6Main_MeshPart5
+    2300016: astroturf6Main_MeshPart6
+    2300018: grassClump1Main_MeshPart0
+    2300020: grassClump1Main_MeshPart1
+    2300022: grassClump1Main_MeshPart2
+    3300000: astroturf1Main
+    3300002: pPlane1
+    3300004: astroturf6Main_MeshPart0
+    3300006: astroturf6Main_MeshPart1
+    3300008: astroturf6Main_MeshPart2
+    3300010: astroturf6Main_MeshPart3
+    3300012: astroturf6Main_MeshPart4
+    3300014: astroturf6Main_MeshPart5
+    3300016: astroturf6Main_MeshPart6
+    3300018: grassClump1Main_MeshPart0
+    3300020: grassClump1Main_MeshPart1
+    3300022: grassClump1Main_MeshPart2
+    4300000: pPlane1
+    4300002: astroturf1Main
+    4300004: astroturf6Main_MeshPart0
+    4300006: astroturf6Main_MeshPart1
+    4300008: astroturf6Main_MeshPart2
+    4300010: astroturf6Main_MeshPart3
+    4300012: astroturf6Main_MeshPart4
+    4300014: astroturf6Main_MeshPart5
+    4300016: astroturf6Main_MeshPart6
+    4300018: grassClump1Main_MeshPart0
+    4300020: grassClump1Main_MeshPart1
+    4300022: grassClump1Main_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

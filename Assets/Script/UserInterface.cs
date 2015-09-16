@@ -31,12 +31,5 @@ public class UserInterface : MonoBehaviour {
 		}
 
 	}
-
-	public void GameOver()
-	{
-		time_text.gameObject.SetActive (false);
-		game_over.SetActive (true);
-		
-	}
 	
 }
